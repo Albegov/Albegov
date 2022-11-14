@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danil Albegov
-- 🏙  Live in Krasnodar
+<!-- - 🏙  Live in Krasnodar --->
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning C#
 - 📫 Contact email: albegov.danil123@yandex.ru
