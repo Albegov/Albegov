@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danil Albegov
 - 👀 I’m interested in web and game development
-- 🌱 I’m currently learning JS, Vue, C#
+- 🌱 I’m currently learning JS, React, PHP
 - 📫 Contact email: albegov.danil123@yandex.ru
 
 <!---
