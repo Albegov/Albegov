@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danil Albegov
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning PHP, Laravel
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning Unity engine, C#
 - 📫 Contact email: albegov.danil123@yandex.ru
 
 <!---
