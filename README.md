@@ -1,4 +1,4 @@
-[![Home page](https://web.drupidupi.ru/media/images/github-profile/github-profile-banner.jpg?v=1)](https://web.drupidupi.ru)
+[![Home page](./images/github-profile-banner.jpg)](https://web.drupidupi.ru)
 ### 👨‍💻 About me
 - Full-stack developer with main stack: **PHP 7+, JavaScript, MySQL**
 - Previously worked with **C#** in game development (Unity / .NET)
