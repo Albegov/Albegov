@@ -1,3 +1,4 @@
+[![Home page](https://web.drupidupi.ru/media/images/mountains2.jpg)](https://web.drupidupi.ru)
 ### 👨‍💻 About me
 - Full-stack developer with main stack: **PHP 7+, JavaScript, MySQL**
 - Previously worked with **C#** in game development (Unity / .NET)
